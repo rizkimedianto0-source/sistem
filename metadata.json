@@ -1,0 +1,6 @@
+{
+  "name": "KAYU CRAFT - Sistem Produksi Mebel Terpadu",
+  "description": "Sistem Informasi Manajemen Produksi Mebel & Furniture ERP terpadu: Data Master, BOM, SPK Pesanan Produksi, Tracking Proses, Persediaan, Pembelian, HPP Biaya, Quality Control, dan Laporan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
